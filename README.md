@@ -21,4 +21,4 @@ Those nodes are included in a modified version of Blender.
 ### Entasis Node (卷殺折線)
 Automatically generate the n segments entasis polylines in "Yingzao Fashi".
 [Blog post](https://lilacsky824.blogspot.com/2024/07/blendergeometry-node_23.html)
-https://github.com/user-attachments/assets/cc5dd8e3-5a49-4aed-bbb0-8c626c0d2e83
+<video src="https://github.com/user-attachments/assets/cc5dd8e3-5a49-4aed-bbb0-8c626c0d2e83"></video>
