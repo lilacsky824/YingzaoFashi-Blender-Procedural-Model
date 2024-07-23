@@ -1,7 +1,8 @@
 This project explores how to use Blender's Geometry Nodes to procedurally generate architectural components based on the "Yingzao Fashi" (Treatise on Architectural Methods) from the Song Dynasty. 
 Please read my blog post (only available in Traditional Chinese) for the implementation process.
 
-Please note that future implementations will require the use of Custom Geometry Nodes. This will necessitate modifications to the Blender source code.
+Please note that implementations will require the use of Custom Geometry Nodes. This will necessitate modifications to the Blender source code.
+Please refer to the [modified version](https://github.com/lilacsky824/blender-self-use-custom-geometry-node).
 
 # Models and Nodes
 The files for each model and node have the same name as their respective titles.
